@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Favorite Places</string>
+  <string name="search_title">Find Places</string>
+  <string name="save">Save</string>
+  <string name="cancel">Cancel</string>
+  <string name="initial_text">Describe your favorite place here…</string>
+</resources>
